@@ -1,7 +1,7 @@
 {
   "name": "TurfTherapy",
-  "version": "0.0.1",
-  "private": true,
+  "version": "0.0.2",
+  "private": false,
   "scripts": {
     "android": "react-native run-android",
     "ios": "react-native run-ios",
@@ -15,8 +15,8 @@
     "@react-navigation/native": "^5.0.8",
     "@react-navigation/stack": "^5.1.0",
     "moment": "^2.24.0",
-    "react": "16.9.0",
-    "react-native": "0.61.5",
+    "react": "16.13.0",
+    "react-native": "0.64.2",
     "react-native-elements": "^1.2.7",
     "react-native-gesture-handler": "^1.6.0",
     "react-native-keyboard-accessory": "^0.1.10",
