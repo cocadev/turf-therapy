@@ -119,5 +119,5 @@ I hope you enjoy and don't forget to rate the app please! Send feedback for desi
 - [x] Test on iOS
 
 ## :eyes: **Version**
-- [x] React-Native 0.61.5 
-- [ ] Expo 36
+- [x] React-Native 0.64.2 
+- [ ] Expo 40
