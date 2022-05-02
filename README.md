@@ -1,4 +1,4 @@
-<h1 align="center"><b>  Turf Therapy App 2</b> </h1>
+<h1 align="center"><b>  Turf Therapy App 3</b> </h1>
 
 <p align="center">You will be able to calculate both the Granular and Liquid Fertilizer Application!</p>
 
